@@ -4,8 +4,8 @@
   <HelloWorld msg="Welcome to The Milestone!"/>
   <HelloWorld msg2="The place where you will prepare yourself for Cambridge English Exams!"/>
 </main>
-  <Test></Test>
-  <Alert></Alert>
+   <Alert></Alert>
+   <Test></Test>
 </template>
 
 <script>
