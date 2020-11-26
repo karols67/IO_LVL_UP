@@ -21,3 +21,14 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+engapp/.gitignore
+engapp/babel.config.js
+engapp/package-lock.json
+engapp/package.json
+engapp/README.md
+engapp/public/favicon.ico
+engapp/public/index.html
+engapp/src/App.vue
+engapp/src/main.js
+engapp/src/assets/logo.png
+engapp/src/components/HelloWorld.vue
