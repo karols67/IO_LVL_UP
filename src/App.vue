@@ -3,7 +3,6 @@
 <main>
   <HelloWorld msg="Welcome to The Milestone!"/>
   <HelloWorld msg2="The place where you will prepare yourself for Cambridge English Exams!"/>
-  <HelloWorld msg="Welcome to The Milestone!"/>
 </main>
    <Alert></Alert>
    <Test></Test>
