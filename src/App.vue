@@ -6,6 +6,8 @@
 </main>
    <Alert></Alert>
    <Test></Test>
+   <Test></Test>
+   <Test></Test>
 </template>
 
 <script>
