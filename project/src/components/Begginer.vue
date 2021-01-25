@@ -11,6 +11,7 @@
     <b-col class="text-center d-none d-md-block" md=6>Określona ścieżka rozwoju</b-col>
     <b-col class="text-center d-none d-md-block" md=3>Przystępne materiały</b-col>
     <b-col class="text-center d-none d-md-block" md=3>Egzaminy cambridge!</b-col>
+      <b-col class="text-center d-none d-md-block" md=3>Egzaminy cambridge!</b-col>
   </b-row>
 </b-container>
 </template>
